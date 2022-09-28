@@ -29,7 +29,6 @@
               </v-btn>
             </p>
             <p class="bluegrey--text text-body-1">
-
               A VUEjs-based and powered-by-Vuetify (material UI kit) résumé template, which you're seeing right now.
             </p>
           </v-col>
@@ -147,11 +146,3 @@
 
   </div>
 </template>
-
-<script>
-export default {
- data: () => ({
-   
- })        
-}
-</script>
