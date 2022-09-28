@@ -34,7 +34,8 @@
           :href="info.link"
           target="_blank"
         > 
-          {{ info.name }}
+          {{ info.name }}&nbsp;&nbsp;
+          <v-icon class="bluegrey--text align-self-center">mdi-open-in-new</v-icon>
         </v-btn>
         <v-span v-else>{{ info.name }}</v-span>
       </v-col>
