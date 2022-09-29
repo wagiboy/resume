@@ -134,15 +134,36 @@
           <v-col cols="12" sm="5" class="pa-0">
             <a href="https://www.tutorz.com">
               <v-img 
-                src="@/assets/tutorz.gif" 
-                width="180" 
-                class="mx-auto mt-12"
+                src="@/assets/tutorz-team.jpg" 
+                
+                class="mx-auto"
               ></v-img>
             </a>      
           </v-col>
         </v-row>          
       </v-card-text>
-    </v-card>        
+    </v-card>  
+
+    <!-- Dancing Teacher -->
+    <v-card class="bluegrey--text mx-auto mt-7" max-width="900"> 
+      <v-card-text>
+        <v-row>
+          <v-col cols="12" sm="7">
+            <p class="text-h5 bluegrey--text font-weight-medium">
+              Dancing Teacher
+            </p>
+            <p class="bluegrey--text text-body-1">
+              Bachata dancing teacher in Chemnitz, Germany. I lead a team of 30 students twice a week.             
+            </p>          
+          </v-col>
+          <v-col cols="12" sm="5" class="pa-0">
+            <section>
+              <iframe width="373" height="210" src="https://www.youtube.com/embed/hhf4mZlVKLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </section>
+          </v-col>
+        </v-row>          
+      </v-card-text>
+    </v-card>                  
 
   </div>
 </template>
