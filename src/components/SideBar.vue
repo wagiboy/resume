@@ -64,7 +64,7 @@ export default {
       pt: '3'
     },{
       icon: 'phone',
-      name: '+49 175 6276 6272',
+      name: '+49 175 627 6272',
       link: '',
       class: '',
       pt: '3'
