@@ -136,7 +136,7 @@
           value="80"
           color="primary"
         >
-          <span class="bluegrey--text text-caption">Javascript</span>
+          <span class="bluegrey--text text-caption">JavaScript</span>
         </v-progress-circular>
       </v-col>
       <v-col cols="2" class="text-center">
@@ -175,7 +175,7 @@ export default {
       text: 'Certified blockchain developer with hands-on experience of designing and implementing Solidity smart contracts using the Ethereum VM and Polygon blockchain',
     },{
       icon: 'ethereum',
-      text: 'Staking coins investment portfolio manager',
+      text: 'Ethereum node operator and staking portfolio manager',
     },{
       icon: 'web',
       text: 'Expert in LAMP-stack web development and web search',

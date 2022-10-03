@@ -81,6 +81,12 @@ export default {
       class: 'text-lowercase',
       pt: '2'      
     },{
+      icon: 'twitter',
+      name: 'twitter.com/dirkkwagner',      
+      link: 'https://twitter.com/dirkkwagner',
+      class: 'text-lowercase',
+      pt: '2'           
+    },{
       icon: 'instagram',
       name: 'instagram.com/wagiboy',      
       link: 'https://www.instagram.com/wagiboy/',

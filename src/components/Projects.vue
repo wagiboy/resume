@@ -33,7 +33,7 @@
             </p>
           </v-col>
           <v-col cols="12" sm="5" class="pa-0">
-            <a href="http://tutorz.org">
+            <a href="/" target="_blank">
               <v-img src="@/assets/resumee.png"></v-img>
             </a>
           </v-col>
@@ -54,10 +54,10 @@
               <v-btn 
                 text
                 class="bluegrey--text text-lowercase font-weight-normal text-body-1 px-0"
-                href="http://citadelia.city"
+                href="https://citadelia.city"
                 target="_blank"
               > 
-                http://citadelia.city
+                citadelia.city
                 <v-icon class="bluegrey--text align-self-center">mdi-open-in-new</v-icon>
               </v-btn>
             </p>
@@ -66,7 +66,7 @@
             </p>
           </v-col>
           <v-col cols="12" sm="5" class="pa-0">
-            <a href="http://citadelia.city">
+            <a href="https://citadelia.city" target="_blank">
               <v-img src="@/assets/citadelia.png" ></v-img>
             </a>      
           </v-col>
@@ -87,16 +87,16 @@
               <v-btn 
                 text
                 class="bluegrey--text text-lowercase font-weight-normal text-body-1 px-0"
-                href="http://tutorz.co"
+                href="https://tutorz.co"
                 target="_blank"              
               > 
-                http://tutorz.co
+                tutorz.co
                 <v-icon class="bluegrey--text align-self-center">mdi-open-in-new</v-icon>
               </v-btn>
             </p>          
           </v-col>
           <v-col cols="12" sm="5" class="pa-0  ">
-            <a href="http://tutorz.co">
+            <a href="https://tutorz.co" target="_blank">
               <v-img 
                 src="@/assets/ttz-coin.png" 
                 width="200" 
@@ -106,7 +106,41 @@
           </v-col>
         </v-row>          
       </v-card-text>
-    </v-card>    
+    </v-card>   
+
+    <!-- eth validator node -->
+    <v-card class="bluegrey--text mx-auto mt-7" max-width="900"> 
+      <v-card-text>
+        <v-row>
+          <v-col cols="12" sm="7">
+            <p class="text-h5 bluegrey--text font-weight-medium">
+              Ethereum Node
+            </p>
+            <p class="bluegrey--text text-body-1">
+              Running one validator node on the Beacon chain to secure the Ethereum network and helping reach consensus.
+              <v-btn 
+                text
+                class="bluegrey--text text-lowercase font-weight-normal text-body-1 px-0"
+                href="https://beaconscan.com/"
+                target="_blank"              
+              > 
+                BeaconScan.com
+                <v-icon class="bluegrey--text align-self-center">mdi-open-in-new</v-icon>
+              </v-btn>
+            </p>          
+          </v-col>
+          <v-col cols="12" sm="5" class="pa-0  ">
+            <a href="https://beaconscan.com/" target="_blank">
+              <v-img 
+                src="@/assets/node.png" 
+                width="200" 
+                class="mx-auto mt-6"
+              ></v-img>
+            </a>      
+          </v-col>
+        </v-row>          
+      </v-card-text>
+    </v-card>         
 
     <!-- TutorZ -->
     <v-card class="bluegrey--text mx-auto mt-7" max-width="900"> 
@@ -123,10 +157,10 @@
               <v-btn 
                 text
                 class="bluegrey--text text-lowercase font-weight-normal text-body-1 px-0"
-                href="http://www.tutorz.com"
+                href="https://www.tutorz.com"
                 target="_blank"              
               > 
-                https://tutorz.com
+                tutorz.com
                 <v-icon class="bluegrey--text align-self-center">mdi-open-in-new</v-icon>
               </v-btn>
             </p>          
